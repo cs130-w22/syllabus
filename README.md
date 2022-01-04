@@ -2,15 +2,15 @@
 
 ## Teaching Team
 
-*Instructor: Prof. Maged Elaasar (melaasar@g.ucla.edu)*
+*Instructor: Prof. Maged Elaasar*
 
 Lecture: MW 4PM to 5:50PM (Perloff Hall 1102 or Zoom)
 
-*1A TA: Steven Gong (nikepupu9@gmail.com)*
+*1A TA: Steven Gong*
 
 Lab 1A: F 2:00PM to 3:50PM (Dodd Hall 121 or Zoom)
 
-*1B TA: Patricia Xiao (patriciaxiao@g.ucla.edu)*
+*1B TA: Patricia Xiao*
 
 Lab 1B: F 12:00PM to 1:50PM (Franz Hall 1178 or Zoom)
 
