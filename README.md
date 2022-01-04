@@ -103,6 +103,6 @@ At some points, we will be asking you to give feedback on your learning experien
 ## Academic Integrity
 Each student is expected to uphold the values of integrity, honesty, trust, fairness, and respect toward peers and community. Violations (e.g., cheating, unpermitted collaboration or use of resources) will absolutely NOT be tolerated. In your first week, you must read and sign UCLA's Academic Integrity Statement and submit it through Gradescope.
 
-# Class Policies
+## Class Policies
 - The instructor cannot accommodate individual requests to schedule the Midterm or Final exam on different dates.
 - Grades for individual components will not be curved. However, the final grade may get adjusted using a curve before letter grades are assigned.
