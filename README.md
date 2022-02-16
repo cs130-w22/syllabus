@@ -57,8 +57,8 @@ Project: 30%
 | W 2/16 | Software Testing 2 (symbolic execution, regression test) | |
 | F 2/18 | Lab | |
 | M 2/21 | Holiday: Presidents’ Day | |
-| W 2/23 | Software Code Review (Hoare Logic) | Homework 3 is due |
-| F 2/25 | Lab | |
+| W 2/23 | Software Code Review (Hoare Logic) | |
+| F 2/25 | Lab | Homework 3 is due |
 | M 2/28 | Software Evolution & Maintenance (Anti-Patterns, Refactoring) | |
 | W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | |
 | F 3/4 | Lab | Homework 4 is due |
