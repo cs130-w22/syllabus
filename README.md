@@ -58,12 +58,12 @@ Project: 30%
 | F 2/18 | Lab | |
 | M 2/21 | Holiday: Presidents’ Day | |
 | W 2/23 | Software Code Review (Hoare Logic) | |
-| F 2/25 | Lab | Homework 3 is due |
+| F 2/25 | Lab | Homework 3 is due Sun 2/27 midnight |
 | M 2/28 | Software Evolution & Maintenance (Anti-Patterns, Refactoring) | |
 | W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | |
-| F 3/4 | Lab | Homework 4 is due |
+| F 3/4 | Lab | |
 | M 3/7 | Final Project Presentations | Project Part C/D are due |
-| W 3/9 | Final Project Presentations | |
+| W 3/9 | Final Project Presentations | Homework 4 is due |
 | F 3/11 | Final Exam Review Lab | |
 | M 3/14 | Final Exam | 11:30 am -2:30 pm
 
