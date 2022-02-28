@@ -60,12 +60,12 @@ Project: 30%
 | W 2/23 | Software Code Review (Hoare Logic) | |
 | F 2/25 | Lab | Homework 3 is due Sun 2/27 midnight |
 | M 2/28 | Software Evolution & Maintenance (Anti-Patterns, Refactoring) | |
-| W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | |
+| W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | On Zoom |
 | F 3/4 | Lab | |
-| M 3/7 | Final Project Presentations | Project Part C/D are due |
-| W 3/9 | Final Project Presentations | Homework 4 is due |
+| M 3/7 | Final Project Presentations (on Zoom) | Project Part C/D are due |
+| W 3/9 | Final Project Presentations (on Zoom) ) | Homework 4 is due |
 | F 3/11 | Final Exam Review Lab | |
-| M 3/14 | Final Exam | 11:30 am -2:30 pm
+| M 3/14 | Final Exam | 11:30 am -2:30 pm (in person at Peroff 1102)
 
 ## Participation
 You are expected to attend and participate in all lecture and discussion sessions of this class. Participation will be measured by answering quizzes posted during class on Google forms. You will be allowed to miss up to 10% of the quizzes. This should allow you to address circumstances like being sick, having schedule conflicts, etc. without losing marks. So, plan accordingly, and do not ask your instructor or TA for make ups.
