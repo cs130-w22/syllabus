@@ -60,7 +60,7 @@ Project: 30%
 | W 2/23 | Software Code Review (Hoare Logic) | |
 | F 2/25 | Lab | Homework 3 is due Sun 2/27 midnight |
 | M 2/28 | Software Evolution & Maintenance (Anti-Patterns, Refactoring) | |
-| W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | On Zoom |
+| W 3/2 | Software DevOps (Continuous Integration/Delivery/Monitoring) | Guest Lecturer - On Zoom |
 | F 3/4 | Lab | |
 | M 3/7 | Final Project Presentations (on Zoom) | Project Part C/D are due |
 | W 3/9 | Final Project Presentations (on Zoom) ) | Homework 4 is due |
